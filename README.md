@@ -16,4 +16,4 @@ Run these commands in order to create the kernel binary:
 
 Once again please keep your expectations low and you will never be Disapointed. 
 
-YOURS A.Joseph
+YOURS AJ
