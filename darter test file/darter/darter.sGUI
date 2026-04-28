@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+    <frame frame="frame">
+        <frameW>128</frameW>
+        <frameH>160</frameH>
+        <parentImageNum>-1</parentImageNum>
+        <parentBackgroundNum>62</parentBackgroundNum>
+        <screenType>2</screenType>
+        <dpi>128*160(QQVGA)</dpi>
+        <baud>115200</baud>
+        <blValue>10</blValue>
+        <logo1>-1</logo1>
+        <logo2>-1</logo2>
+        <logox>0</logox>
+        <logoy>0</logoy>
+        <logow>0</logow>
+        <logoh>0</logoh>
+        <logotime>0</logotime>
+        <currentPage>0</currentPage>
+    </frame>
+    <page id="1">
+        <pageImageNum pageImageNum="-1"/>
+        <pageBackgroundNum pageBackgroundNum="62"/>
+        <pageHelpLineNum pageHelpLineNum="0"/>
+        <pageHelpLineLeft pageHelpLineLeft="0"/>
+        <pageHelpLineRight pageHelpLineRight="0"/>
+        <pageHelpLineTop pageHelpLineTop="0"/>
+        <pageHelpLineBottom pageHelpLineBottom="0"/>
+        <ClassName ClassName="QRcode">
+            <id>0</id>
+            <x>12</x>
+            <y>23</y>
+            <w>106</w>
+            <h>106</h>
+            <text>https://youtu.be/dQw4w9WgXcQ?si=YA6OuQrIkIpoCacL</text>
+            <fontSize>16</fontSize>
+            <hAlign>0</hAlign>
+            <vAlign>0</vAlign>
+            <fontColorNum>16</fontColorNum>
+            <backgroundColorNum>7</backgroundColorNum>
+            <pressColorNum>0</pressColorNum>
+            <imageNum>-1</imageNum>
+            <cutImageNum>-1</cutImageNum>
+            <backgroundImageNum>-1</backgroundImageNum>
+            <backgroundCutImageNum>-1</backgroundCutImageNum>
+            <pressImageNum>-1</pressImageNum>
+            <pressCutImageNum>-1</pressCutImageNum>
+            <progType>0</progType>
+            <style>0</style>
+            <styleColorNum>0</styleColorNum>
+            <pointerX>0</pointerX>
+            <pointerY>0</pointerY>
+            <pointerW>0</pointerW>
+            <pointerL>0</pointerL>
+            <pointerAngle>0</pointerAngle>
+        </ClassName>
+    </page>
+</ui>
